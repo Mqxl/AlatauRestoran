@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZmhljy15eWGuD0IBFi9wNNmPVl2R1G5Vn/Y402uwqRGD7mLV68zDNpUyx3zsOl8msAO1Vl1SWQ6bXrlh6itLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Selim\\Desktop\\Alatau\\Alatau\\Alatau.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Selim\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\Selim\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\Selim\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
+    "C:\\Users\\Selim\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\140.340.80\\microsoft.reportingservices.reportviewercontrol.winforms.140.340.80.nupkg.sha512",
+    "C:\\Users\\Selim\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.1016.290\\microsoft.sqlserver.types.14.0.1016.290.nupkg.sha512",
+    "C:\\Users\\Selim\\.nuget\\packages\\zxing.net\\0.16.5\\zxing.net.0.16.5.nupkg.sha512"
+  ],
+  "logs": []
+}

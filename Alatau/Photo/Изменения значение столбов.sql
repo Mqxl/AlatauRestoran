@@ -1,0 +1,1 @@
+ALTER TABLE dbo.Desert ALTER COLUMN Цена int;
